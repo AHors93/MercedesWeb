@@ -1,0 +1,35 @@
+.main-page {
+    background-color: white; 
+}
+#header {
+    background-color:black;
+    height: 120px;
+}
+#navigation-bar {
+    background-color: blue;
+    height: 100px;
+}
+#car-selection {
+    background-color: grey;
+    height: 400px;
+}
+#badge {
+    height: 100px;
+    margin: 20px;
+    float: left;
+}
+p {
+    font: 500;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: silver;
+    padding: 20px;
+    margin-top: 80px;
+    float: left;
+}
+#search-bar {
+    float: right;
+    height: 30px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
